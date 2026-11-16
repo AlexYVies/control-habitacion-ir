@@ -1,0 +1,22 @@
+# Flutter / Dart
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/android/.gradle/
+**/android/local.properties
+*.apk
+*.aab
+
+# Python
+**/__pycache__/
+*.py[cod]
+
+# IDEs & OS
+**/.idea/
+*.iml
+cookies.txt
+Thumbs.db
+.DS_Store
+*.zip
